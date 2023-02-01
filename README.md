@@ -1,12 +1,10 @@
-**# React Testing Library/Jest**
-**
-**
-**## Jest & Jest DOM Assertions**
-**
-**
-**`    `**`expect(linkElement).toBeInTheDocument();`
-`
-`
+# React Testing Library/Jest
+
+
+## Jest & Jest DOM Assertions
+
+`expect(linkElement).toBeInTheDocument()`
+
 * expect: 
 	* Jest global, starts the assertion
 * expect argument: 
